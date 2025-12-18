@@ -27,8 +27,6 @@ This project was created as a personal creative work to explore interactive web 
 ---
 
 ## 📷 Preview
-## 📷 Preview
-
 <div align="center">
   <img src="screenshots/Preview 1.png" alt="Website Preview 1" width="80%" />
   <br><br>
